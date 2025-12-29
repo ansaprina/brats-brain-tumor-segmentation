@@ -26,8 +26,8 @@ brats-brain-tumor-segmentation/
     ├── 02_unet_baseline.ipynb → Custom U-Net implementation
     ├── 02_unet_baseline_full.ipynb → Custom U-Net implementation
     ├── 02_unet_inference.ipynb → Custom U-Net implementation
-    ├── 03_nnunetv2_2D.ipynb → nnU-Net 2D inference
-    ├── 03_nnunetv2_2D_inference.ipynb → nnU-Net 2D setup and training
+    ├── 03_nnunetv2_2D.ipynb → nnU-Net 2D setup and training
+    ├── 03_nnunetv2_2D_inference.ipynb → nnU-Net 2D inference
     ├── 04_nnunetv2_3D.ipynb → nnU-Net 2D setup and training
     ├── 04_nnunetv2_3D_inference.ipynb → nnU-Net 3D inference
     └── 05_MedNeXt_M_5.ipynb → MedNeXt M 5 3D setup, training and inference
